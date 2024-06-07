@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prikshit 
-- 👀 I’m interested in working and exploring different stages came in tech journey
+- 👀 I’m interested in working and exploring different stages at a tech journey
 - 🌱 I’m currently learning java and web dev
 - 💞️ I’m looking to collaborate with tech-business related firms
 - 📫 How to reach me...
