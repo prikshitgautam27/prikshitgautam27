@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prikshit 
-- 👀 I’m interested in core java and problem solving
-- 🌱 I’m currently learning java and web dev
+- 👀 I’m interested in data science and problem solving
+- 🌱 I’m currently learning python and many more...
 - 💞️ I’m looking to make a reputated technological compamy a little more reputated.
 - 📫 reach me through mail--> pgautam_be23@thapar.edu
 - 😄 Pronouns: ...
