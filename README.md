@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and problem solving
 - 🌱 I’m currently learning python and many more...
 - 💞️ I’m looking to make a reputated technological company, a more reputated becoz i am a workaholic.
-- 📫 reach me through mail--> pgautam_be23@thapar.edu
+- 📫 reach me through mail--> pgautam_be23@thapar.edu or prikshitgautam27@gmail.com
 
 <!---
 prikshitgautam27/prikshitgautam27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
