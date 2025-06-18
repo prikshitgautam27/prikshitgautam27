@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prikshit sophomore @TIET(Thapar University)
 - 👀 I’m interested in data science and problem solving
 - 🌱 I’m currently learning python and many more...
-- 💞️ I’m looking to make a reputated technological company, a more reputated becoz i am a workaholic.
 - 📫 reach me through mail--> pgautam_be23@thapar.edu or prikshitgautam27@gmail.com
 
 <!---
