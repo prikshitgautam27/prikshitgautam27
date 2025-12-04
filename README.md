@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prikshit Gauatm @TIET(Thapar University (Prefinal))
+- 👋 Hi, I’m Prikshit Gautam @TIET(Thapar University (Prefinal))
 - 👀 I’m interested lies in data science,AI-ML and problem solving through these amazing skills
 - 🌱   learning through life and natural examples  and many more...
 - 📫 reach me through mail--> pgautamlinkdedin@gmail.com or prikshitgautam27@gmail.com
