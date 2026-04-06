@@ -233,6 +233,5 @@ I'm always interested in:
 
 **Created by Prikshit Gautam**
 
-Last updated: <!-- LAST-UPDATED -->2026-04-06<!-- /LAST-UPDATED -->
 
 </div>
