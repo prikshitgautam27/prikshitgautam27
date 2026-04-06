@@ -71,9 +71,9 @@ I love building scalable solutions, optimizing performance, and deploying produc
 - **Data Visualization** 📊 Interactive dashboards, Statistical analysis
 
 </div>
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ---
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ## <div class="section">💼 Professional Experience</div>
 
