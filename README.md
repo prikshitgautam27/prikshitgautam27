@@ -76,7 +76,7 @@ I love building scalable solutions, optimizing performance, and deploying produc
 ---
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
-## <div class="section">💼 Professional Experience</div>
+## <div class="section"> Professional Experience</div>
 
 ### <div class="achievement"> LLM Intern @ Edunet Foundation</div>
 **Jan 2025 — Feb 2025**
@@ -142,7 +142,7 @@ Real-time traffic system using YOLOv8 for hazard detection and emergency respons
 
 **Tech Stack:** YOLOv8, OpenCV, SUMO, Real-time Processing
 
-[🔗 View Project](https://github.com/prikshitgautam27/traffic-anomaly-detection)
+
 
 </div>
 
@@ -164,7 +164,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 
 **Tech Stack:** LangChain, FAISS, Hugging Face, Streamlit, RAG Systems
 
-[🔗 View Project](https://github.com/prikshitgautam27/healthcare-chatbot)
+
 
 </div>
 
@@ -186,7 +186,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 
 ## <div class="section"> GitHub Stats</div>
 
-<div align="center" style="animation: slideInUp 0.9s ease-out;">
+<div >
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prikshitgautam27&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=0099ff&icon_color=0099ff)
 
