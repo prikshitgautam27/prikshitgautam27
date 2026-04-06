@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Prikshit Gautam
+# Hi there! I'm Prikshit Gautam
 
 <div align="center">
 
-### 🚀 Machine Learning Engineer | Product Focus | Scalable Solutions
+###  Machine Learning Engineer | Product Focus | Scalable Solutions
 
 **Building intelligent systems that solve real-world problems**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 
 Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering .
 
@@ -49,7 +49,7 @@ I love building scalable solutions, optimizing performance, and deploying produc
 
 ---
 
-## 🎯 Core Competencies
+##  Core Competencies
 
 - **NLP & LLMs** - RAG Systems, Intent Classification, Transformer Fine-tuning
 - **Computer Vision** - Object Detection (YOLOv8), Real-time Video Processing
@@ -76,7 +76,7 @@ I love building scalable solutions, optimizing performance, and deploying produc
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🌐 [Improving Networked Control Performance via Delay Pattern Prediction](https://github.com/prikshitgautam27/network-control-prediction)
 **Aug 2024 — Jul 2025**
@@ -131,7 +131,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 |---|---|---|
 | 🥇 **Top 4,029 / 115,000 Teams** | Adobe Hackathon | Aug 2025 |
 | 📜 **Complete Data Science & ML** | Udemy (Krish Naik) | Apr 2024 |
-| 🎖️ **Geometrical Shape Detection** | TIET-LMS | Jul 2025 |
+
 
 </div>
 
@@ -157,7 +157,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 I'm always interested in:
 - 🔬 Collaborative ML research & projects
