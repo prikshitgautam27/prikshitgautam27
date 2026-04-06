@@ -10,8 +10,7 @@
 
 [📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [📝 Medium](https://medium.com/@prikshitgautam27) • 
 
-![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) ![GitHub followers](https://img.shields.io/github/followers/prikshitgautam27?style=social)
-
+![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) 
 </div>
 
 ---
