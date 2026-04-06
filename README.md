@@ -1,4 +1,4 @@
-
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 # <div align="center" style="animation: slideInDown 0.8s ease-out;">Hi there!  I'm Prikshit Gautam</div>
 
 <div align="center" style="animation: slideInDown 1s ease-out;">
