@@ -179,7 +179,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 |---|---|---|
 | <div class="achievement">🥇 Top 4,029 / 115,000 Teams</div> | Adobe Hackathon | Aug 2025 |
 | <div class="achievement">📜 Complete Data Science & ML</div> | Udemy (Krish Naik) | Apr 2024 |
-| <div class="achievement">🎖️ Geometrical Shape Detection</div> | TIET-LMS | Jul 2025 |
+| <div class="achievement">🎖️ The American Express Campus Challenge</div> | Unstop |  September 2025 |
 
 </div>
 
