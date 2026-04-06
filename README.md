@@ -8,14 +8,14 @@
 
 **Building intelligent systems that solve real-world problems**
 
-[📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [📝 Medium](https://medium.com/@prikshitgautam27) • 
+[ Email](mailto:pgautamlinkedin@gmail.com) • [ LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [ Medium](https://medium.com/@prikshitgautam27) • 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) 
 </div>
 
 ---
 
-## <div class="section">💡 About Me</div>
+## <div class="section"> About Me</div>
 
 Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering.
 
@@ -62,14 +62,14 @@ I love building scalable solutions, optimizing performance, and deploying produc
 
 ---
 
-## <div class="section">🎯 Core Competencies</div>
+## <div class="section"> Core Competencies</div>
 
 <div style="animation: slideInUp 0.8s ease-out;">
 
-- **NLP & LLMs** ✨ RAG Systems, Intent Classification, Transformer Fine-tuning
-- **Computer Vision** 🎥 Object Detection (YOLOv8), Real-time Video Processing
-- **Time Series Forecasting** 📈 LSTM, RNN, Hybrid Models
-- **Data Visualization** 📊 Interactive dashboards, Statistical analysis
+- **NLP & LLMs**  RAG Systems, Intent Classification, Transformer Fine-tuning
+- **Computer Vision**  Object Detection (YOLOv8), Real-time Video Processing
+- **Time Series Forecasting**  LSTM, RNN, Hybrid Models
+- **Data Visualization**  Interactive dashboards, Statistical analysis
 
 </div>
 
@@ -78,7 +78,7 @@ I love building scalable solutions, optimizing performance, and deploying produc
 
 ## <div class="section">💼 Professional Experience</div>
 
-### <div class="achievement">🔬 LLM Intern @ Edunet Foundation</div>
+### <div class="achievement"> LLM Intern @ Edunet Foundation</div>
 **Jan 2025 — Feb 2025**
 
 <div class="project-card">
@@ -89,22 +89,22 @@ I love building scalable solutions, optimizing performance, and deploying produc
 
 </div>
 
-### <div class="achievement">🎓 Summer Project Intern @ TIET Experiential-Learning Centre</div>
+### <div class="achievement"> Summer Project Intern @ TIET Experiential-Learning Centre</div>
 **Jun 2025 — Jul 2025**
 
 <div class="project-card">
 
-- 🚗 Built real-time computer vision system detecting 2 hazard types using YOLOv8
-- 📊 **89.7% mAP**, **15ms faster** inference time
-- 🎤 Presented to 10+ faculty members with live demonstration
+-  Built real-time computer vision system detecting 2 hazard types using YOLOv8
+-  **89.7% mAP**, **15ms faster** inference time
+-  Presented to 10+ faculty members with live demonstration
 
 </div>
 
 ---
 
-## <div class="section">🚀 Featured Projects</div>
+## <div class="section"> Featured Projects</div>
 
-### <div class="achievement">🌐 Improving Networked Control Performance via Delay Pattern Prediction</div>
+### <div class="achievement"> Improving Networked Control Performance via Delay Pattern Prediction</div>
 
 <div class="project-card">
 
@@ -126,7 +126,7 @@ Analyzed **40,000+ 5G packet traces** from KTH Expeca testbed to predict network
 
 ---
 
-### <div class="achievement">🚦 Intelligent Traffic Systems with AI-Powered Anomaly Detection</div>
+### <div class="achievement"> Intelligent Traffic Systems with AI-Powered Anomaly Detection</div>
 
 <div class="project-card">
 
@@ -148,7 +148,7 @@ Real-time traffic system using YOLOv8 for hazard detection and emergency respons
 
 ---
 
-### <div class="achievement">🏥 Healthcare Assistant Chatbot</div>
+### <div class="achievement"> Healthcare Assistant Chatbot</div>
 
 <div class="project-card">
 
@@ -170,21 +170,21 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 
 ---
 
-## <div class="section">🏆 Achievements & Certifications</div>
+## <div class="section"> Achievements & Certifications</div>
 
 <div align="center">
 
 | Achievement | Issuer | Date |
 |---|---|---|
-| <div class="achievement">🥇 Top 4,029 / 115,000 Teams</div> | Adobe Hackathon | Aug 2025 |
-| <div class="achievement">📜 Complete Data Science & ML</div> | Udemy (Krish Naik) | Apr 2024 |
-| <div class="achievement">🎖️ The American Express Campus Challenge</div> | Unstop |  September 2025 |
+| <div class="achievement"> Top 4,029 / 115,000 Teams</div> | Adobe Hackathon | Aug 2025 |
+| <div class="achievement"> Complete Data Science & ML</div> | Udemy (Krish Naik) | Apr 2024 |
+| <div class="achievement"> The American Express Campus Challenge</div> | Unstop |  September 2025 |
 
 </div>
 
 ---
 
-## <div class="section">📊 GitHub Stats</div>
+## <div class="section"> GitHub Stats</div>
 
 <div align="center" style="animation: slideInUp 0.9s ease-out;">
 
@@ -196,11 +196,11 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 
 ---
 
-## <div class="section">📚 Latest Articles</div>
+## <div class="section"> Latest Articles</div>
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 VISIONCARE AI: Building an Ensemble Deep Learning System for Cataract Detection.
-- 💡 Stay tuned for exciting content!
+-  VISIONCARE AI: Building an Ensemble Deep Learning System for Cataract Detection.
+-  Stay tuned for exciting content!
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -210,10 +210,10 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 <div style="animation: slideInUp 1s ease-out;">
 
 I'm always interested in:
-- 🔬 Collaborative ML research & projects
-- 💡 Innovative product ideas
-- 📖 Knowledge sharing & discussions
-- 🌍 Open-source contributions
+-  Collaborative ML research & projects
+-  Innovative product ideas
+-  Knowledge sharing & discussions
+-  Open-source contributions
 
 </div>
 
