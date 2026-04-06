@@ -200,7 +200,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 ## <div class="section">📚 Latest Articles</div>
 
 <!-- BLOG-POST-LIST:START -->
-- 📝 Coming soon on Medium...
+- 📝 VISIONCARE AI: Building an Ensemble Deep Learning System for Cataract Detection.
 - 💡 Stay tuned for exciting content!
 <!-- BLOG-POST-LIST:END -->
 
