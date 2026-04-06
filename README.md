@@ -6,7 +6,7 @@
 
 **Building intelligent systems that solve real-world problems**
 
-[📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/prikshitgautam27) • [📝 Medium](https://medium.com/@prikshitgautam27) • [📱 Phone](tel:+919877035742)
+[📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/prikshitgautam27) • [📝 Medium](https://medium.com/@prikshitgautam27) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) ![GitHub followers](https://img.shields.io/github/followers/prikshitgautam27?style=social)
 
@@ -16,7 +16,7 @@
 
 ## 💡 About Me
 
-Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering (CGPA: 8.46). 
+Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering .
 
 I love building scalable solutions, optimizing performance, and deploying production-ready ML models.
 
@@ -178,6 +178,6 @@ I'm always interested in:
 
 <div align="center">
 
-**Made with ❤️ by Prikshit Gautam**
+**Creator: Prikshit Gautam**
 
 </div>
