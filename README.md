@@ -4,11 +4,11 @@
 
 <div align="center" style="animation: slideInDown 1s ease-out;">
 
-### 🚀 Machine Learning Engineer | Product Focus | Scalable Solutions
+###  Machine Learning Engineer | Product Focus | Scalable Solutions
 
 **Building intelligent systems that solve real-world problems**
 
-[📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [📝 Medium](https://medium.com/@prikshitgautam27) • [📱 Call](tel:+919877035742)
+[📧 Email](mailto:pgautamlinkedin@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [📝 Medium](https://medium.com/@prikshitgautam27) • 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) ![GitHub followers](https://img.shields.io/github/followers/prikshitgautam27?style=social)
 
@@ -18,7 +18,7 @@
 
 ## <div class="section">💡 About Me</div>
 
-Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering (CGPA: 8.46).
+Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering.
 
 I love building scalable solutions, optimizing performance, and deploying production-ready ML models.
 
