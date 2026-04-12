@@ -4,7 +4,7 @@
 
 <div align="center" style="animation: slideInDown 1s ease-out;">
 
-###  Machine Learning Engineer | Product Focus | Scalable Solutions
+###  Full Stack AI Engineer | Product Focus | Scalable Solutions
 
 **Building intelligent systems that solve real-world problems**
 
