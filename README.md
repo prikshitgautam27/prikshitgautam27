@@ -117,7 +117,7 @@ Analyzed **40,000+ 5G packet traces** from KTH Expeca testbed to predict network
 -  Trained 3 neural architectures: RNN, LSTM, Hybrid LSTM
 -  **95% accuracy** in IP delay forecasting
 -  **45% variance reduction** using multi-step LSTM approach
-## Track the  prediction Site@ :  [https:forcasting-5g.vercel.app](https://forcasting-5g.vercel.app/)
+## Track the  prediction Site@ :  [https:forecasting-5g.vercel.app](https://forcasting-5g.vercel.app/)
 
 **Tech Stack:** PyTorch, LSTM, Time Series Analysis, Statistical Validation
 
