@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:8b5cf6&height=120&section=header&animation=fadeIn" width="100%"/>
 
-# Hi there, I'm Prikshit Gautam 👋
+# Hi there, I'm Prikshit Gautam 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;NLP+%26+Computer+Vision+Engineer;Building+Intelligent+AI+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class PrikshitGautam:
@@ -35,49 +35,49 @@ class PrikshitGautam:
         return ["Agentic AI", "LangGraph", "Transformer Fine-tuning"]
 
     def fun_fact(self):
-        return "Top 4,029 out of 115,000 teams — Adobe Hackathon 🏆"
+        return "Top 4,029 out of 115,000 teams — Adobe Hackathon "
 ```
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
-| 🥇 Achievement | 🏢 Issuer | 📅 Date |
+|  Achievement | 🏢 Issuer | 📅 Date |
 |:---|:---|:---|
-| 🏆 **Top 4,029 / 115,000 Teams** — Smart PDF Reader | Adobe Hackathon | Aug 2025 |
-| 🎓 **Complete Data Science & ML Bootcamp** | Udemy — Krish Naik | Apr 2024 |
-| 🏅 **The American Express Campus Challenge** | Unstop | Sep 2025 |
-| 🔬 **Geometrical Shape Detection** | Thapar-LMS Verified | 2024 |
+|  **Top 4,029 / 115,000 Teams** — Smart PDF Reader | Adobe Hackathon | Aug 2025 |
+|  **Complete Data Science & ML Bootcamp** | Udemy — Krish Naik | Apr 2024 |
+|  **The American Express Campus Challenge** | Unstop | Sep 2025 |
+|  **Geometrical Shape Detection** | Thapar-LMS Verified | 2024 |
 
 </div>
 
 ---
 
-## 💼 Experience
+##  Experience
 
 <details>
-<summary><b>🤖 LLM Intern — Edunet Foundation (Jan 2025 – Feb 2025)</b></summary>
+<summary><b> LLM Intern — Edunet Foundation (Jan 2025 – Feb 2025)</b></summary>
 
-- 🚀 Developed Python NLP chatbot → **90%+ intent accuracy**, 30% improvement in automated query resolution
-- ⚡ Optimized model inference pipeline → **25% reduction** in API response latency
-- 🔧 Fine-tuned Hugging Face models for domain-specific applications
+-  Developed Python NLP chatbot → **90%+ intent accuracy**, 30% improvement in automated query resolution
+-  Optimized model inference pipeline → **25% reduction** in API response latency
+-  Fine-tuned Hugging Face models for domain-specific applications
 
 </details>
 
 <details>
-<summary><b>👁️ Summer Project Intern — TIET Experiential Learning Centre (Jun 2025 – Jul 2025)</b></summary>
+<summary><b> Summer Project Intern — TIET Experiential Learning Centre (Jun 2025 – Jul 2025)</b></summary>
 
-- 🎯 Built real-time CV system detecting roadway hazards using **YOLOv8**
-- 📊 Achieved **89.7% mAP** with **15ms faster** inference time
+-  Built real-time CV system detecting roadway hazards using **YOLOv8**
+-  Achieved **89.7% mAP** with **15ms faster** inference time
 - 🎤 Presented live demo to **10+ faculty members** with commendation
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -93,7 +93,7 @@ class PrikshitGautam:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -129,7 +129,7 @@ class PrikshitGautam:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -152,17 +152,17 @@ class PrikshitGautam:
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-- 🔭 Working on **Agentic AI systems with LangGraph**
-- 🌱 Learning **Transformer fine-tuning & ONNX optimization**
-- 👯 Open to **internships, research collaborations & open source**
-- 💬 Ask me about **NLP, Computer Vision, RAG pipelines, Full Stack AI**
-- ⚡ Fun fact: **I built an AI chatbot on my portfolio that answers questions about me!**
+-  Working on **Agentic AI systems with LangGraph**
+-  Learning **Transformer fine-tuning & ONNX optimization**
+-  Open to **internships, research collaborations & open source**
+-  Ask me about **NLP, Computer Vision, RAG pipelines, Full Stack AI**
+-  Fun fact: **I built an AI chatbot on my portfolio that answers questions about me!**
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
