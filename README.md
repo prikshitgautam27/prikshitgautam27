@@ -1,239 +1,186 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-gautam--prikshit.is--a.dev-blue?style=for-the-badge&logo=vercel)](https://gautam-prikshit.is-a.dev)
+<div align="center">
 
-# <div align="center" style="animation: slideInDown 0.8s ease-out;">Hi there!  I'm Prikshit Gautam</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:8b5cf6&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<div align="center" style="animation: slideInDown 1s ease-out;">
+# Hi there, I'm Prikshit Gautam 👋
 
-###  Full Stack AI Engineer | Product Focus | Scalable Solutions
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0099FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;NLP+%26+Computer+Vision+Engineer;Building+Intelligent+AI+Systems;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
-**Building intelligent systems that solve real-world problems**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gautam--prikshit.is--a.dev-0099ff?style=for-the-badge&logo=vercel&logoColor=white)](https://gautam-prikshit.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prikshit_Gautam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/)
+[![Email](https://img.shields.io/badge/Gmail-pgautamlinkedin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgautamlinkedin@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&style=for-the-badge&color=0099ff&label=Profile+Views)](https://github.com/prikshitgautam27)
 
-[ Email](mailto:pgautamlinkedin@gmail.com) • [ LinkedIn](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/) • [ Medium](https://medium.com/@prikshitgautam27) • 
-
-![Profile Views](https://komarev.com/ghpvc/?username=prikshitgautam27&color=blue) 
 </div>
 
 ---
 
-## <div class="section"> About Me</div>
+## 🧠 About Me
 
-Machine Learning Engineer passionate about **NLP**, **Computer Vision**, and **Time Series Forecasting**. Currently at **Thapar Institute of Engineering and Technology** pursuing B.E. in Electronics and Computer Engineering.
+```python
+class PrikshitGautam:
+    def __init__(self):
+        self.name        = "Prikshit Gautam"
+        self.role        = "Full Stack AI Developer"
+        self.college     = "Thapar Institute of Engineering & Technology"
+        self.degree      = "B.E. Electronics & Computer Engineering (2023–2027)"
+        self.location    = "Patiala, Punjab, India"
+        self.portfolio   = "https://gautam-prikshit.is-a.dev"
 
-I love building scalable solutions, optimizing performance, and deploying production-ready ML models.
+    def specializations(self):
+        return ["NLP & LLMs", "Computer Vision", "Time Series Forecasting",
+                "RAG Systems", "Full Stack Development", "Cloud (AWS)"]
+
+    def current_focus(self):
+        return ["Agentic AI", "LangGraph", "Transformer Fine-tuning"]
+
+    def fun_fact(self):
+        return "Top 4,029 out of 115,000 teams — Adobe Hackathon 🏆"
+```
 
 ---
 
-## <div class="section">🔧 Tech Stack</div>
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥇 Achievement | 🏢 Issuer | 📅 Date |
+|:---|:---|:---|
+| 🏆 **Top 4,029 / 115,000 Teams** — Smart PDF Reader | Adobe Hackathon | Aug 2025 |
+| 🎓 **Complete Data Science & ML Bootcamp** | Udemy — Krish Naik | Apr 2024 |
+| 🏅 **The American Express Campus Challenge** | Unstop | Sep 2025 |
+| 🔬 **Geometrical Shape Detection** | Thapar-LMS Verified | 2024 |
+
+</div>
+
+---
+
+## 💼 Experience
+
+<details>
+<summary><b>🤖 LLM Intern — Edunet Foundation (Jan 2025 – Feb 2025)</b></summary>
+
+- 🚀 Developed Python NLP chatbot → **90%+ intent accuracy**, 30% improvement in automated query resolution
+- ⚡ Optimized model inference pipeline → **25% reduction** in API response latency
+- 🔧 Fine-tuned Hugging Face models for domain-specific applications
+
+</details>
+
+<details>
+<summary><b>👁️ Summer Project Intern — TIET Experiential Learning Centre (Jun 2025 – Jul 2025)</b></summary>
+
+- 🎯 Built real-time CV system detecting roadway hazards using **YOLOv8**
+- 📊 Achieved **89.7% mAP** with **15ms faster** inference time
+- 🎤 Presented live demo to **10+ faculty members** with commendation
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech | Stats | Links |
+|:---|:---|:---|:---|
+| **5G Latency Predictor** | PyTorch · LSTM · RNN | 95% accuracy · 40K+ traces | [🔗 Code](https://github.com/gourav-prateek-sharma/5G-delay-Timeseries-Precapstone) · [🌐 Live](https://forcasting-5g.vercel.app/) |
+| **AI Road Intelligence** | YOLOv8 · SUMO · OpenCV | 45 FPS · <50ms latency | [🔗 Code](https://github.com/prathamhanda/AI-RoadIntelligence) |
+| **VisionCARE AI** | CNN · Keras · Streamlit | Clinic-ready workflow | [🔗 Code](https://github.com/prikshitgautam27/Vision_CARE_AI) |
+| **Healthcare Assistant** | LangChain · FAISS · RAG | 40% relevance boost · 2050+ topics | [🔗 Code](https://github.com/prikshitgautam27/AI_powered_healthcare) |
+| **Cloud File Manager** | AWS S3 · Flask · IAM | Multi-region replication | [🔗 Code](https://github.com/prikshitgautam27/AWS_S3_E2) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-<div class="skill-group">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000&label=%20)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000)
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD500?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</div>
+### Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ML Frameworks & Libraries
-<div class="skill-group">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD500?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000)
-
-</div>
-
-### Tools & Platforms
-<div class="skill-group">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000)
-
-</div>
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## <div class="section"> Core Competencies</div>
-
-<div style="animation: slideInUp 0.8s ease-out;">
-
-- **NLP & LLMs**  RAG Systems, Intent Classification, Transformer Fine-tuning
-- **Computer Vision**  Object Detection (YOLOv8), Real-time Video Processing
-- **Time Series Forecasting**  LSTM, RNN, Hybrid Models
-- **Data Visualization**  Interactive dashboards, Statistical analysis
-
-</div>
-
----
-
-## <div class="section"> Professional Experience</div>
-
-### <div class="achievement"> LLM Intern @ Edunet Foundation</div>
-**Jan 2025 — Feb 2025**
-
-<div class="project-card">
-
--  Developed Python NLP chatbot → **30% improvement** in automated query resolution, **90%+ intent accuracy**
--  Optimized model inference pipeline → **25% reduction** in API response latency
--  Fine-tuned Hugging Face models for domain-specific applications
-
-</div>
-
-### <div class="achievement"> Summer Project Intern @ TIET Experiential-Learning Centre</div>
-**Jun 2025 — Jul 2025**
-
-<div class="project-card">
-
--  Built real-time computer vision system detecting 2 hazard types using YOLOv8
--  **89.7% mAP**, **15ms faster** inference time
--  Presented to 10+ faculty members with live demonstration
-
-</div>
-
----
-
-## <div class="section"> Featured Projects</div>
-
-### <div class="achievement"> Improving Networked Control Performance via Delay Pattern Prediction</div>
-
-<div class="project-card">
-
-**Aug 2024 — Jul 2025**
-
-Analyzed **40,000+ 5G packet traces** from KTH Expeca testbed to predict network delays.
-
-**Highlights:**
--  Identified RLC frame alignment delay as root cause
--  Trained 3 neural architectures: RNN, LSTM, Hybrid LSTM
--  **95% accuracy** in IP delay forecasting
--  **45% variance reduction** using multi-step LSTM approach
-## Track the  prediction Site@ :  [https:forecasting-5g.vercel.app](https://forcasting-5g.vercel.app/)
-
-**Tech Stack:** PyTorch, LSTM, Time Series Analysis, Statistical Validation
-
-[🔗 View Project](https://github.com/prikshitgautam27/network-control-prediction)
-
-</div>
-
----
-
-### <div class="achievement"> Intelligent Traffic Systems with AI-Powered Anomaly Detection</div>
-
-<div class="project-card">
-
-**Jun 2025 — Jul 2025**
-
-Real-time traffic system using YOLOv8 for hazard detection and emergency response optimization.
-
-**Highlights:**
--  Processes video + YouTube live streams at **45 FPS** with **<50ms latency**
--  Automatic green light extension logic (10-15 seconds)
--  **12% improvement** in emergency vehicle arrival times
--  Integrated ML with SUMO simulator
-
-**Tech Stack:** YOLOv8, OpenCV, SUMO, Real-time Processing
-
-
-
-</div>
-
----
-
-### <div class="achievement"> Healthcare Assistant Chatbot</div>
-
-<div class="project-card">
-
-**Jan 2025 — Feb 2025**
-
-LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
-
-**Highlights:**
--  LangChain RAG + FAISS vector store
--  **40% improvement** in clinical query relevance
--  Fine-tuned transformers on **2,050+ medical topics**
--  Interactive Streamlit web app → **20% user satisfaction increase**
-
-**Tech Stack:** LangChain, FAISS, Hugging Face, Streamlit, RAG Systems
-
-
-
-</div>
-
----
-
-## <div class="section"> Achievements & Certifications</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Achievement | Issuer | Date |
-|---|---|---|
-| <div class="achievement"> Top 4,029 / 115,000 Teams</div> | Adobe Hackathon | Aug 2025 |
-| <div class="achievement"> Complete Data Science & ML</div> | Udemy (Krish Naik) | Apr 2024 |
-| <div class="achievement"> The American Express Campus Challenge</div> | Unstop |  September 2025 |
+<img src="https://github-readme-stats.vercel.app/api?username=prikshitgautam27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prikshitgautam27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prikshitgautam27&theme=tokyonight&hide_border=true)](https://github.com/prikshitgautam27)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prikshitgautam27&theme=tokyo-night&hide_border=true&area=true)](https://github.com/prikshitgautam27)
 
 </div>
 
 ---
 
-## <div class="section"> GitHub Stats</div>
+## 🎯 Currently
 
-<div >
+- 🔭 Working on **Agentic AI systems with LangGraph**
+- 🌱 Learning **Transformer fine-tuning & ONNX optimization**
+- 👯 Open to **internships, research collaborations & open source**
+- 💬 Ask me about **NLP, Computer Vision, RAG pipelines, Full Stack AI**
+- ⚡ Fun fact: **I built an AI chatbot on my portfolio that answers questions about me!**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prikshitgautam27&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=0099ff&icon_color=0099ff)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prikshitgautam27&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=ffffff&title_color=0099ff)
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0099ff?style=for-the-badge)](https://gautam-prikshit.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/prikshitgautam27)
+[![Medium](https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium)](https://medium.com/@prikshitgautam27)
 
 </div>
 
 ---
 
-## <div class="section"> Latest Articles</div>
+<div align="center">
 
-<!-- BLOG-POST-LIST:START -->
--  SOLID principles for design.
--  Stay tuned for exciting content!
-<!-- BLOG-POST-LIST:END -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0099ff&height=100&section=footer&animation=fadeIn" width="100%"/>
 
----
+**⭐ If you find my work interesting, consider starring my repos!**
 
-## <div class="section"> Let's Connect!</div>
+*Built with ❤️ by Prikshit Gautam — [gautam-prikshit.is-a.dev](https://gautam-prikshit.is-a.dev)*
 
-<div style="animation: slideInUp 1s ease-out;">
-
-I'm always interested in:
--  Collaborative ML research & projects
--  Innovative product ideas
--  Knowledge sharing & discussions
--  Open-source contributions
-
-</div>
-
-<div align="center" style="animation: bounce 3s infinite; margin-top: 20px;">
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prikshit-gautam-76b1a9308/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgautamlinkedin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prikshitgautam27)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prikshitgautam27)
-
-</div>
-
----
-
-<div align="center" style="animation: fadeIn 2s ease-out; margin-top: 30px;">
-
-**Created by Prikshit Gautam**
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
 </div>
