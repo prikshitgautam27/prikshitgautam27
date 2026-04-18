@@ -199,7 +199,7 @@ LangChain RAG pipeline with domain-specific fine-tuning for medical queries.
 ## <div class="section"> Latest Articles</div>
 
 <!-- BLOG-POST-LIST:START -->
--  VISIONCARE AI: Building an Ensemble Deep Learning System for Cataract Detection.
+-  SOLID principles for design.
 -  Stay tuned for exciting content!
 <!-- BLOG-POST-LIST:END -->
 
