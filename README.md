@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:8b5cf6,100:06b6d4&height=140&section=header&animation=fadeIn&fontColor=ffffff&fontSize=40&text=Prikshit%20Gautam&desc=Full%20Stack%20AI%20Developer&descSize=18&descAlignY=75" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0099FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Full+Stack+AI+Developer+%F0%9F%A4%96;NLP+%26+Computer+Vision+Engineer+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Top+4%25+Adobe+Hackathon+%F0%9F%8F%86;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0099FF&center=true&vCenter=true&random=false&width=650&height=60&lines=Full+Stack+AI+Developer;NLP+%26+Computer+Vision+Engineer+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Top+4%25+Adobe+Hackathon+%F0%9F%8F%86;Open+to+Internships+%26+Collaborations+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br>
 
