@@ -27,40 +27,40 @@ class PrikshitGautam:
         self.role        = "Full Stack AI Developer"
         self.college     = "Thapar Institute of Engineering & Technology"
         self.degree      = "B.E. Electronics & Computer Engineering (2023–2027)"
-        self.location    = "📍 Patiala, Punjab, India"
-        self.portfolio   = "🌐 https://gautam-prikshit.is-a.dev"
+        self.location    = " Patiala, Punjab, India"
+        self.portfolio   = " https://gautam-prikshit.is-a.dev"
         self.available   = True  # Open to opportunities!
 
     def specializations(self) -> list:
         return [
-            "🧠 NLP & LLMs",
-            "👁️ Computer Vision",
-            "📈 Time Series Forecasting",
-            "🔗 RAG Systems",
-            "⚛️ Full Stack Development",
-            "☁️ Cloud (AWS)"
+            " NLP & LLMs",
+            " Computer Vision",
+            " Time Series Forecasting",
+            " RAG Systems",
+            " Full Stack Development",
+            " Cloud (AWS)"
         ]
 
     def current_focus(self) -> list:
         return [
-            "🤖 Agentic AI & LangGraph",
-            "🔧 Transformer Fine-tuning",
-            "⚡ ONNX Runtime Optimization"
+            " Agentic AI & LangGraph",
+            " Transformer Fine-tuning",
+            " ONNX Runtime Optimization"
         ]
 
     def fun_fact(self) -> str:
         return "🏆 Top 4,029 / 115,000 teams — Adobe Hackathon!"
 
     def __str__(self) -> str:
-        return "Building AI systems that matter 🚀"
+        return "Building AI systems that matter "
 
 me = PrikshitGautam()
-print(me)  # Building AI systems that matter 🚀
+print(me)  # Building AI systems that matter 
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements & Certifications
+##  Achievements & Certifications
 
 <div align="center">
 
@@ -73,13 +73,13 @@ print(me)  # Building AI systems that matter 🚀
 <sub>Smart PDF Reader · Aug 2025</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎓-CERTIFIED-green?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/-CERTIFIED-green?style=for-the-badge" /><br/>
 <b>Data Science & ML</b><br/>
 <sub>Complete Bootcamp</sub><br/>
 <sub>Udemy · Krish Naik · Apr 2024</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏅-CHALLENGE-blue?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/-CHALLENGE-blue?style=for-the-badge" /><br/>
 <b>AmEx Campus Challenge</b><br/>
 <sub>American Express</sub><br/>
 <sub>Unstop · Sep 2025</sub>
@@ -100,17 +100,17 @@ print(me)  # Building AI systems that matter 🚀
 ## 💼 Professional Experience
 
 <details>
-<summary><b>🤖 LLM Intern — Edunet Foundation &nbsp;|&nbsp; Jan 2025 – Feb 2025 &nbsp;|&nbsp; Remote</b></summary>
+<summary><b> LLM Intern — Edunet Foundation &nbsp;|&nbsp; Jan 2025 – Feb 2025 &nbsp;|&nbsp; Remote</b></summary>
 <br/>
 
 ```
-📌 Role: LLM Engineering & NLP
+ Role: LLM Engineering & NLP
 ```
 
-- 🚀 Developed Python NLP chatbot achieving **90%+ intent accuracy** → **30% improvement** in automated query resolution
-- ⚡ Optimized model inference pipeline → **25% reduction** in API response latency
-- 🔧 Fine-tuned Hugging Face transformer models for domain-specific enterprise applications
-- 🛠️ **Stack:** Python · Hugging Face · LangChain · REST APIs
+-  Developed Python NLP chatbot achieving **90%+ intent accuracy** → **30% improvement** in automated query resolution
+-  Optimized model inference pipeline → **25% reduction** in API response latency
+-  Fine-tuned Hugging Face transformer models for domain-specific enterprise applications
+-  **Stack:** Python · Hugging Face · LangChain · REST APIs
 
 </details>
 
@@ -121,24 +121,24 @@ print(me)  # Building AI systems that matter 🚀
 <br/>
 
 ```
-📌 Role: Computer Vision Engineering
+ Role: Computer Vision Engineering
 ```
 
-- 🎯 Built real-time CV system detecting **2 roadway hazard types** using **YOLOv8**
-- 📊 Achieved **89.7% mAP** with **15ms faster** inference time
-- ⚡ Integrated automatic green-light extension logic for emergency vehicles
-- 🎤 Presented live demo to **10+ faculty members** — received commendation
-- 🛠️ **Stack:** YOLOv8 · OpenCV · Python · SUMO Simulator
+-  Built real-time CV system detecting **2 roadway hazard types** using **YOLOv8**
+-  Achieved **89.7% mAP** with **15ms faster** inference time
+-  Integrated automatic green-light extension logic for emergency vehicles
+-  Presented live demo to **10+ faculty members** — received commendation
+-  **Stack:** YOLOv8 · OpenCV · Python · SUMO Simulator
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🔬 Project | 🛠️ Tech Stack | 📊 Key Metrics | 🔗 Links |
+|  Project |  Tech Stack |  Key Metrics |  Links |
 |:---|:---|:---|:---|
 | **5G Latency Predictor** | PyTorch · LSTM · RNN · Statistical Analysis | 95% accuracy · 0.201ms MAE · 40K+ traces | [Code](https://github.com/gourav-prateek-sharma/5G-delay-Timeseries-Precapstone) · [🌐 Live](https://forcasting-5g.vercel.app/) |
 | **AI Road Intelligence** | YOLOv8 · SUMO · OpenCV · Real-time | 45 FPS · <50ms latency · 12% faster response | [Code](https://github.com/prathamhanda/AI-RoadIntelligence) |
@@ -150,17 +150,17 @@ print(me)  # Building AI systems that matter 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 🧠 AI / ML / DL
+###  AI / ML / DL
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -170,7 +170,7 @@ print(me)  # Building AI systems that matter 🚀
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-### ⚛️ Full Stack
+###  Full Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -178,7 +178,7 @@ print(me)  # Building AI systems that matter 🚀
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -190,7 +190,7 @@ print(me)  # Building AI systems that matter 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -207,7 +207,7 @@ print(me)  # Building AI systems that matter 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake Animation
+##  Contribution Snake Animation
 
 <div align="center">
 
@@ -221,7 +221,7 @@ print(me)  # Building AI systems that matter 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -231,24 +231,24 @@ print(me)  # Building AI systems that matter 🚀
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Currently
+##  Currently
 
 <div align="center">
 
 | Status | Activity |
 |:---:|:---|
-| 🔭 | Working on **Agentic AI systems with LangGraph** |
-| 🌱 | Learning **Transformer fine-tuning & ONNX optimization** |
-| 🤝 | Open to **internships, research & open source** |
-| 💬 | Ask me about **NLP · CV · RAG · Full Stack AI** |
-| ⚡ | Fun fact: **My portfolio has an AI chatbot that answers questions about me!** |
+|   Working on **Agentic AI systems with LangGraph** |
+|   Learning **Transformer fine-tuning & ONNX optimization** |
+|   Open to **internships, research & open source** |
+|   Ask me about **NLP · CV · RAG · Full Stack AI** |
+|   Fun fact: **My portfolio has an AI chatbot that answers questions about me!** |
 | 🌐 | Portfolio: **[gautam-prikshit.is-a.dev](https://gautam-prikshit.is-a.dev)** |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -268,6 +268,6 @@ print(me)  # Building AI systems that matter 🚀
 
 **⭐ If you find my work interesting, please star my repos — it means a lot!**
 
-*Built with ❤️ by [Prikshit Gautam](https://gautam-prikshit.is-a.dev)*
+*Built with by [Prikshit Gautam](https://gautam-prikshit.is-a.dev)*
 
 </div>
