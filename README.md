@@ -143,7 +143,7 @@ print(me)  # Building AI systems that matter 🚀
 | **5G Latency Predictor** | PyTorch · LSTM · RNN · Statistical Analysis | 95% accuracy · 0.201ms MAE · 40K+ traces | [Code](https://github.com/gourav-prateek-sharma/5G-delay-Timeseries-Precapstone) · [🌐 Live](https://forcasting-5g.vercel.app/) |
 | **AI Road Intelligence** | YOLOv8 · SUMO · OpenCV · Real-time | 45 FPS · <50ms latency · 12% faster response | [Code](https://github.com/prathamhanda/AI-RoadIntelligence) |
 | **VisionCARE AI** | CNN · Keras · Streamlit · Ensemble | High accuracy · Automated reporting · Clinic-ready | [Code](https://github.com/prikshitgautam27/Vision_CARE_AI) |
-| **Healthcare Assistant** | LangChain · FAISS · RAG · Hugging Face | 40% relevance boost · 2,050+ topics | [Code](https://github.com/prikshitgautam27/AI_powered_healthcare) · [🌐 Live](https://https://pgautam-healthcare-limited.streamlit.app/) |
+| **Healthcare Assistant** | LangChain · FAISS · RAG · Hugging Face | 40% relevance boost · 2,050+ topics | [Code](https://github.com/prikshitgautam27/AI_powered_healthcare) · [🌐 Live](https://pgautam-healthcare-limited.streamlit.app/) |
 | **Cloud File Manager** | AWS S3 · Flask · EC2 · IAM | Multi-region · Secure · Version tracking | [Code](https://github.com/prikshitgautam27/AWS_S3_E2) |
 
 </div>
