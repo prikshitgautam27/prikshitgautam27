@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class PrikshitGautam:
@@ -97,7 +97,7 @@ print(me)  # Building AI systems that matter
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <details>
 <summary><b> LLM Intern — Edunet Foundation &nbsp;|&nbsp; Jan 2025 – Feb 2025 &nbsp;|&nbsp; Remote</b></summary>
@@ -117,7 +117,7 @@ print(me)  # Building AI systems that matter
 <br/>
 
 <details>
-<summary><b>👁️ Summer Project Intern — TIET Experiential Learning Centre &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Patiala</b></summary>
+<summary><b> Summer Project Intern — TIET Experiential Learning Centre &nbsp;|&nbsp; Jun 2025 – Jul 2025 &nbsp;|&nbsp; Patiala</b></summary>
 <br/>
 
 ```
@@ -235,14 +235,14 @@ print(me)  # Building AI systems that matter
 
 <div align="center">
 
-| Status | Activity |
-|:---:|:---|
+| Status | 
+|:---:|
 |   Working on **Agentic AI systems with LangGraph** |
 |   Learning **Transformer fine-tuning & ONNX optimization** |
 |   Open to **internships, research & open source** |
 |   Ask me about **NLP · CV · RAG · Full Stack AI** |
 |   Fun fact: **My portfolio has an AI chatbot that answers questions about me!** |
-| 🌐 | Portfolio: **[gautam-prikshit.is-a.dev](https://gautam-prikshit.is-a.dev)** |
+| 🌐 Portfolio: **[gautam-prikshit.is-a.dev](https://gautam-prikshit.is-a.dev)** |
 
 </div>
 
