@@ -240,7 +240,7 @@ print(me)  # Building AI systems that matter
 |   Working on **Agentic AI systems with LangGraph** |
 |   Learning **Transformer fine-tuning & ONNX optimization** |
 |   Open to **internships, research & open source** |
-|   Ask me about **NLP · CV · RAG · Full Stack AI** |
+|   Ask me about **NLP · OpenCV · RAG · Full Stack AI** |
 |   Fun fact: **My portfolio has an AI chatbot that answers questions about me!** |
 | 🌐 Portfolio: **[gautam-prikshit.is-a.dev](https://gautam-prikshit.is-a.dev)** |
 
