@@ -72,10 +72,10 @@ print(f"{me.name} — {me.role}")
 
 <div align="center">
 
-| 🏆 Adobe Hackathon | 📊 Data Science & ML | ☁️ Azure AI Fundamentals | 💻 DSA Proficiency |
-|:---:|:---:|:---:|:---:|
-| Top 3.5% globally — 4,029/115,000 teams | Complete Bootcamp — Udemy, Krish Naik | Generative AI — Microsoft | 450+ problems solved |
-| [Certificate](#) | [Certificate](#) | [Certificate](#) | LeetCode · NeetCode · GFG |
+| 🏆 Adobe Hackathon | 📊 Data Science & ML | ☁️ Azure AI Fundamentals |
+|:---:|:---:|:---:|
+| Top 3.5% globally — 4,029/115,000 teams | Complete Bootcamp — Udemy, Krish Naik | Generative AI — Microsoft |
+| [Certificate](#) | [Certificate](#) | [Certificate](#) |
 
 </div>
 
